@@ -1,0 +1,30 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 10.6.19
+XML Reader 		: Yes
+PHP Version 		: 8.3.19
+PHP Max Input Vars 	: 8000
+PHP Max Post Size 	: 30M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 60
+Max Upload Size 	: 20 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 15:36:16 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+{"post_title":"Response XML","post_mime_type":"application\/xml","post_content":"","post_status":"inherit"}
+"\/home\/vol14_3\/ezyro.com\/ezyro_39243707\/htdocs\/wp-content\/uploads\/2025\/06\/wxr.xml"
+21
